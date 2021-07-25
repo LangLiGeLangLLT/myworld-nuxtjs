@@ -1,0 +1,9 @@
+{
+  "apps":[
+    {
+      "name": "MyWorld",
+      "script": "npm",
+      "args": "start"
+    }
+  ]
+}
